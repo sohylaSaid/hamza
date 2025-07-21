@@ -1,0 +1,25 @@
+/* Custom styles for Quiz App */
+body {
+    background-color: #f8f9fa; /* Light gray background */
+    font-family: 'Arial', sans-serif;
+}
+
+h1.text-primary {
+    color: #007bff; /* Bootstrap primary blue */
+    font-weight: bold;
+}
+
+.card {
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.form-check-label {
+    font-size: 1.1rem;
+    color: #333;
+}
+
+.btn {
+    padding: 10px 20px;
+    font-size: 1rem;
+}
